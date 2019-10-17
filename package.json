@@ -1,11 +1,11 @@
 {
-  "name": "conventional-changelog-lint-config-nomad",
+  "name": "commitlint-config-nomad",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@ship.nomadinteractive.co:nomad-interactive/conventional-changelog-lint-config-nomad.git"
+    "url": "git@ship.nomadinteractive.co:nomad-interactive/commitlint-config-nomad.git"
   },
   "author": "",
   "license": "ISC",
