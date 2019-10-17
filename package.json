@@ -1,0 +1,15 @@
+{
+  "name": "commitlint-config-nomad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ship.nomadinteractive.co:nomad-interactive/commitlint-config-nomad.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
