@@ -1,15 +1,15 @@
 {
-  "name": "commitlint-config-nomad",
+  "name": "conventional-changelog-lint-config-nomad",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git@ship.nomadinteractive.co:nomad-interactive/commitlint-config-nomad.git"
+    "url": "git@ship.nomadinteractive.co:nomad-interactive/conventional-changelog-lint-config-nomad.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@commitlint/config-conventional": "^8.2.0"
+  }
 }
