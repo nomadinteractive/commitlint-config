@@ -11,5 +11,8 @@
     "url": "git@ship.nomadinteractive.co:nomad-interactive/commitlint-config-nomad.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@commitlint/config-conventional": "^8.2.0"
+  }
 }
