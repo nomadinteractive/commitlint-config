@@ -1,6 +1,6 @@
 {
-  "name": "@nomadinteractive/commitlint-config-nomad",
-  "version": "1.0.2",
+  "name": "@nomadinteractive/commitlint-config",
+  "version": "1.0.3",
   "description": "Nomad team's commit linter configuration",
   "main": "index.js",
   "repository": "github:nomadinteractive/commitlint-config-nomad",

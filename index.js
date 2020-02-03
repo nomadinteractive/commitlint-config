@@ -11,6 +11,6 @@ module.exports = {
 				"cont",
 				"chore"
 			]
-		  ]
+		]
 	}
 };
