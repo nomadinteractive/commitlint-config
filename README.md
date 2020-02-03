@@ -21,7 +21,7 @@ Then, in your package.json, add following configuration:
 ```
   "commitlint": {
     "extends": [
-      "nomad"
+      "@nomadinteractive/commitlint-config"
     ]
   }
 ```
