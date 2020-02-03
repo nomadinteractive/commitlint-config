@@ -1,4 +1,4 @@
-# commitlint-config-nomad
+# Nomad Commitlint Config
 
 Nomad team's commit linter configuration that extends the conventional commit convention with custom "type" definitions.
 
@@ -11,7 +11,7 @@ On the original project repo, add following dependencies first:
 ```
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
-    "commitlint-config-nomad": "git+ssh://git@ship.nomadinteractive.co:nomad-interactive/commitlint-config-nomad.git",
+    "@nomadinteractive/commitlint-config-nomad": "1.0.2",
     "husky": "^3.0.9",
   },
 ```
@@ -37,3 +37,7 @@ To use commit linter with your pre-hook/commit-msg commits, add following husky 
 ```
 
 After doing ```npm install``` dependencies will be installed as well as husky hooks will be configured. Now you can try to commit a message with git to see the linter results in case if there are rule violations.
+
+## License
+
+[MIT](LICENSE.md)

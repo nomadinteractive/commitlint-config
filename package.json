@@ -1,14 +1,11 @@
 {
-  "name": "commitlint-config-nomad",
-  "version": "1.0.1",
-  "description": "",
+  "name": "@nomadinteractive/commitlint-config-nomad",
+  "version": "1.0.2",
+  "description": "Nomad team's commit linter configuration",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git@ship.nomadinteractive.co:nomad-interactive/commitlint-config-nomad.git"
-  },
-  "author": "Fatih Yildiz <fatih@nomadinteractive.co>",
-  "license": "ISC",
+  "repository": "github:nomadinteractive/commitlint-config-nomad",
+  "author": "Nomad Interactive <hello@nomadinteractive.co>",
+  "license": "MIT",
   "dependencies": {
     "@commitlint/config-conventional": "^8.2.0",
     "conventional-changelog-conventionalcommits": "^4.2.1"
