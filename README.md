@@ -11,7 +11,7 @@ On the original project repo, add following dependencies first:
 ```
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
-    "@nomadinteractive/commitlint-config-nomad": "1.0.2",
+    "@nomadinteractive/commitlint-config": "1.0.3",
     "husky": "^3.0.9",
   },
 ```
